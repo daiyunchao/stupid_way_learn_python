@@ -43,6 +43,15 @@ def print_first_and_last_sorted(sentence):
 # 导入模块中的方法 可以直接被调用
 # import ex_25
 
+# python的文档注释
+# def 中的 """Sorts the words then prints the first and last one.""" 部分
+
+# 打印文档注释
+# help(ex_25.print_first_and_last_sorted)
+
+
+# 将 ex_25的全部方法导入
+# from ex_25 import *
 # 执行模块中的方法 文件名.方法名(参数)
 # ex_25.break_word(sentence)
 
